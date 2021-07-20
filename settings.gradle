@@ -1,0 +1,3 @@
+rootProject.name = "samples.opencv_mobilenet"
+include ':app'
+include ':openCVLibrary3410'
